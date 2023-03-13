@@ -48,6 +48,9 @@ function generateREADME(answers) {
   - [Contributing](#contributing)
   - [Questions](#questions)
   
+  ## Description
+  ${answers.description}
+
   ## Installation
   
   ${answers.installation}

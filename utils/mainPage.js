@@ -1,4 +1,4 @@
-function generateREADME(answers) {
+/*function generateREADME(answers) {
   return `
 # ${answers.title}
 
@@ -40,4 +40,4 @@ inquirer.prompt(questions).then((answers) => {
   fs.writeFile('README.md', README, (err) =>
     err ? console.error(err) : console.log('README created!')
   );
-});
+});*/

@@ -1,7 +1,7 @@
 
-  # name
+  # Readme Generator
   
-  name
+  Professiomal Readme Generator
   
   ## Table of Contents
   
@@ -12,22 +12,21 @@
   - [Questions](#questions)
   
   ## Installation
-  
-  name
+  - Make sure node.js is installed on you local system first
+  - Copy the repo into the terminal or command line
+  - Type npm init in the terminal
+  - Run the code by typing node index.js
   
   ## Usage
-  
-  name
+  Once the readme.md is created it will be used to store all the information pertaining to the users project.
   
   ## Contributing
-  
-  name
+  None
   
   ## License
-  
-  name
+  None
   
   ## Questions
   
-  If you have any questions about the project, please contact me at undefined.
+  If you have any questions about the project, please contact me at...
     
